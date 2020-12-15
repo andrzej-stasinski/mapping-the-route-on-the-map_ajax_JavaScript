@@ -10,7 +10,7 @@
 * maps - Maps Google
 * code in JavaScript
 * the application has three mini-projects that use google maps
-* 
+
 
 
 
